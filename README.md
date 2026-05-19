@@ -5,8 +5,8 @@ A large scale KSP contract overhaul that goes all the way from kerbalkinds first
 **DEPENDENCIES**
 -----------------------
 
-Any Unmanned-First tech tree
+Any Unmanned-First tech tree (Probes before crew, Unkerballed start, etc)
 
-Contract Configurator Extended
+Contract Configurator Extended : https://spacedock.info/mod/4073/Contract%20Configurator%20Extended
 
-A life support mod (Optional yet recommended)
+A life support mod (Optional yet recommended) 
