@@ -10,3 +10,8 @@ Any Unmanned-First tech tree (Probes before crew, Unkerballed start, etc)
 Contract Configurator Extended : https://spacedock.info/mod/4073/Contract%20Configurator%20Extended
 
 A life support mod (Optional yet recommended) 
+
+**WHEN BOOTING UP**
+-----------------------
+
+In the "Contract Configurer" Menu in the save difficulty settings, untick any contract type stock or modded that is not mine, this is needed for the pack to work
