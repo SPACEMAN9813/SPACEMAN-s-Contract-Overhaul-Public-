@@ -21,7 +21,7 @@ In the "Contract Configurer" Menu in the save difficulty settings, untick any co
 
 This mod only covers the stock system atm, this includes uncrewed and uncrewed exploration of all important bodies, and habitation and settlement contracts for the Mun, Duna, and Laythe (Subject to change)
 
-Future updates in the works incude addons for habitation of lesser bodies and for planetpacks like KSS2, CS, PW, and CH
+Future updates in the works incude addons for habitation of lesser bodies and for planetpacks like OPM, MPE, KSS2, CS, PW, and CH
 
 **PLANET PACK COMPAT**
 -----------------------
